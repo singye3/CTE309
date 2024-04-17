@@ -1,0 +1,3 @@
+Image Width: 640
+Image Height: 955
+Image Mode: uint8
